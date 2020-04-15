@@ -15,17 +15,17 @@
   "info-card#button-right": {
     "props": {
       "isFullModeStyle": false,
-      "textPosition":"right",
+      "textPosition": "right",
       "imageUrl": "https://appliancetheme.vteximg.com.br/arquivos/cozinha-rosa-min.png",
-      "headline": "VintagePink",
+      "headline": "Vintage Pink",
       "subhead": "Give your kitchen a boho style adding vintage apparels.<br>Available until January 2020.",
-      "callToActionMode":"button",
+      "callToActionMode": "button",
       "callToActionText": "Explore",
       "callToActionUrl": "/sale/d",
       "textAlignment": "center"
     }
   },
-  "info-car#button-left": {
+  "info-card#button-left": {
     "props": {
       "inFullModeStyle": false,
       "textPosition": "left",
@@ -33,7 +33,7 @@
       "headeline": "Shining chrome",
       "subhead": "Give your kitchen a cool style adding warm metallic finishes.<br>Available until January 2020.",
       "callToActionMode": "link",
-      "callToActionText": "Go toCollection",
+      "callToActionText": "Go to Collection",
       "textAlignment": "center"
     }
   }
