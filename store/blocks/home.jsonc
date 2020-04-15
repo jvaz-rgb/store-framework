@@ -32,7 +32,7 @@
       "imageUrl": "https://appliancetheme.vteximg.com.br/arquivos/cozinha-cinza-min.png",
       "headeline": "Shining chrome",
       "subhead": "Give your kitchen a cool style adding warm metallic finishes.<br>Available until January 2020.",
-      "callToActionMode": "link",
+      "callToActionMode": "button",
       "callToActionText": "Go to Collection",
       "textAlignment": "center"
     }
