@@ -1,3 +1,17 @@
+.infoCardContainer {
+    max-width: 1260px;
+    margin: 0 auto;
+    padding: 0;
+}
+
+.infoCardContainer--metal {
+    background-color: #e1e1e1;
+}
+
+.infoCardContainer--vintage {
+    background-color: #EDCFD1;
+}
+
 .infoCardHeadline {
     font-family: serif;
     font-size: 2.25rem;
@@ -17,18 +31,4 @@
     color: gray;
     background-color: white;
     border: transparent;
-}
-
-.infoCardContainer {
-    max-width: 1260px;
-    margin: 0 auto;
-    padding: 0;
-}
-
-.infoCardContainer--vintage {
-    background-color: #EDCFD1;
-}
-
-.infoCardContainer--metal {
-    background-color: #E1E1E1;
 }
