@@ -23,9 +23,9 @@
     }
   },
   "flex.layout.col" : {
-    "children":[
+    "children": [
       "image#electronics",
-      "image#major-appliace"
+      "image#major-appliance"
     ]
   },
   "image#electronics": {
@@ -34,7 +34,7 @@
       "maxWidth": "100%"
     }
   },
-  "image#major-appliace": {
+  "image#major-appliance": {
     "props":{
       "src": "https://appliancetheme.vteximg.com.br/assets/vtex.file-manager-graphql/images/major_appliance_banner___bb10093866a127345ddfbcca3efa5022.png",
       "maxWidth": "100%"
