@@ -29,7 +29,7 @@
 
   "flex-layout.col#right": {
     "props": {
-      "varticalAlign": "middle",
+      "verticalAlign": "middle",
       "preventVerticalStretch": false
     },
     "children" : [
