@@ -29,20 +29,19 @@
 
   "flex-layout.col#right": {
     "props": {
-      "vartical-align": "center"
+      "varticalAlign": "center",
+      "preventVerticalStretch": true
     },
     "children" : [
-      "product-images",
+      "product-name",
       "product-price",
       "buy-button"
-    ],
-    "preventVerticalStretch": true
+    ]
   },
-
-  "product-price":{
+  "product-price": {
     "props": {
-      "showSaving": true,
-      "showListPrice": false
+      "showSavings": true,
+      "showListPrice": true
     }
   }
 
