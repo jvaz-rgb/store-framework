@@ -82,8 +82,7 @@
     "props": {
       "initialSelection": "empty",
       "showVariationsLabels": true,
-      "showVariationsErrorMessage": true,
-      "hideImpossibleCombinations": false
+      "showVariationsErrorMessage": true
     }
   },
 
