@@ -37,7 +37,7 @@
       "verticalAlign": "middle",
       "preventVerticalStretch": true
     },
-    "children" : [
+    "children": [
       "product-name",
       "product-identifier.product",
       "product-price",
@@ -54,6 +54,13 @@
       "showSavings": true,
       "showListPrice": true
     }
+  },
+
+  "flex-layout.row#qty-sku": {
+    "children": [
+      "sku-selector",
+      "product-quantity"
+    ]
   },
 
   "sku-selector": {
