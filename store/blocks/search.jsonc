@@ -9,7 +9,7 @@
         "search-not-found-layout"
      ]
   },
-  "search-result-layout.dektop": {
+  "search-result-layout.desktop": {
      "children" : [
         "breadcrumb.search",
         "search-title.v2",
