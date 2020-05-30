@@ -39,14 +39,14 @@
   
   "flex-layout.row#results": {
    "children": [
-     "flex-layout.col#filter",
-     "flex-layout.col#search"
+     "flex-layout.col#left",
+     "flex-layout.col#right"
       ]
    },
 
    "flex-layout.col#left": {
       "props": {
-      "width": 20
+         "width": 20
       },
       "children": [
          "filter-navigator.v3"
