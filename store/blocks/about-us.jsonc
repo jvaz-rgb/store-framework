@@ -2,7 +2,8 @@
     "store.custom#about-us":{
         "blocks": [
             "flex-layout.row#about-us",
-            "tab-layout#home"
+            "tab-layout#home",
+            "iframe"
         ]
     },
     "flex-layout.row#about-us": {
@@ -63,7 +64,7 @@
 
     "tab-list.item#home2": {
         "props":{
-            "tabId": "instagram",
+            "tabId": "electronics",
             "label": "Instagram",
             "defaultActiveTab": true
         }
@@ -87,20 +88,19 @@
 
     "tab-content.item#home2": {
         "children": [
-            "iframe"
+            "iframe#home2"
         ],
         "props":{
-            "tabId": "instagram"
-        },
-        "iframe": {
-            "props": {
-               "src": "https://www.instagram.com/p/B37Zfd6FobU/embed",
-               "width": 800,
-               "height": 1000
-           }
+            "tabId": "electronics"
         }
     },
-  
+    "iframe#home2": {
+        "props": {
+           "src": "https://www.instagram.com/p/B37Zfd6FobU/embed",
+           "width": 800,
+           "height": 1000
+       }
+    },
 
     "rich-text#home1": {
         "props": {
