@@ -92,13 +92,14 @@
         ],
         "props":{
             "tabId": "electronics"
-        },
-        "iframe": {
-            "props": {
-              "src": "https://www.instagram.com/p/B37Zfd6FobU/embed",
-              "width": 800,
-              "height": 1000
-            }
+        }
+    },
+    
+    "iframe": {
+        "props": {
+          "src": "https://www.instagram.com/p/B37Zfd6FobU/embed",
+          "width": 800,
+          "height": 10900
         }
     },
 
