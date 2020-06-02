@@ -2,7 +2,8 @@
     "store.custom#about-us":{
         "blocks": [
             "flex-layout.row#about-us",
-            "tab-layout#home"
+            "tab-layout#home", 
+            "iframe"
         ]
     },
     "flex-layout.row#about-us": {
@@ -104,9 +105,9 @@
       
     "iframe": {
         "props": {
-        "src": "https://www.instagram.com/p/B37Zfd6FobU/embed",
-        "width": 800,
-        "height": 1000
+            "src": "https://www.instagram.com/p/B37Zfd6FobU/embed",
+            "width": 800,
+            "height": 1000
         }
     }
       
