@@ -90,13 +90,17 @@
             "iframe"
         ],
         "props":{
-            "tabId": "instagram",
-            "src": "https://www.instagram.com/p/B37Zfd6FobU/embed",
-            "width": 800,
-            "height": 1000
+            "tabId": "instagram"
+        },
+        "iframe": {
+            "props": {
+               "src": "https://www.instagram.com/p/B37Zfd6FobU/embed",
+               "width": 800,
+               "height": 1000
+           }
         }
     },
-
+  
 
     "rich-text#home1": {
         "props": {
