@@ -2,8 +2,7 @@
     "store.custom#about-us":{
         "blocks": [
             "flex-layout.row#about-us",
-            "tab-layout#home",
-            "iframe"
+            "tab-layout#home"
         ]
     },
     "flex-layout.row#about-us": {
@@ -94,12 +93,12 @@
             "tabId": "electronics"
         }
     },
-    
+
     "iframe": {
         "props": {
           "src": "https://www.instagram.com/p/B37Zfd6FobU/embed",
           "width": 800,
-          "height": 10900
+          "height": 1000
         }
     },
 

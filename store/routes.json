@@ -1,8 +1,5 @@
 {
     "store.custom#about-us": {
         "path": "/about-us"
-    },
-    "tab-content.item#home2": {
-        "path": "https://www.instagram.com/p/B37Zfd6FobU/embed"
     }
 }
